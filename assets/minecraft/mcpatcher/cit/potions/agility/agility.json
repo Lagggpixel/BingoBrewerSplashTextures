@@ -1,8 +1,8 @@
 {
     "parent": "builtin/generated",
     "textures": {
-        "layer0": "mcpatcher/cit/potions/blank",
-        "layer1": "mcpatcher/cit/potions/empty_bottle",
+        "layer0": "mcpatcher/cit/potions/backgrounds/blank",
+        "layer1": "mcpatcher/cit/potions/backgrounds/empty_bottle",
         "layer2": "mcpatcher/cit/potions/agility/agility"
     },
     "display": {
