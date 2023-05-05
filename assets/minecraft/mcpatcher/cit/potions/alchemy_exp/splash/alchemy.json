@@ -4,7 +4,7 @@
         "layer0": "mcpatcher/cit/potions/backgrounds/blank",
         "layer2": "mcpatcher/cit/potions/backgrounds/empty_bottle",
         "layer3": "mcpatcher/cit/potions/alchemy_exp/alchemy",
-        "layer1": "mcpatcher/cit/potions/backgrounds/green_bg"
+        "layer1": "mcpatcher/cit/potions/backgrounds/maxed"
     },
     "display": {
         "thirdperson": {
